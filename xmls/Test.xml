@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stories>
+	<questionsAndAnswers>
+		<questionAndAnswer question="İhtiyaç kredisi çekmek istiyorum." selectedKeywords="ihtiyaç, kredi, çekmek" answer="İhtiyaç kredisi çekmek için şu numarayı arayabilirsiniz."  />
+		<questionAndAnswer question="Taşıt kredisi çekmek istiyorum." selectedKeywords="taşıt, kredi, çekmek" answer="Taşıt kredisi çekmek için şu numarayı arayabilirsiniz."  />
+	</questionsAndAnswers>
+</stories>

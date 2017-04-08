@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/antlr4-runtime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/args4j-2.0.25.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/mongo-java-driver-3.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/mongodb-driver-3.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/morphia-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/zemberek-all-0.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ararslan/Documents/workspace/ChatBotProject/libs/zemberek-tum-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

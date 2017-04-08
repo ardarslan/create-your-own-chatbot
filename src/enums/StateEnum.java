@@ -1,0 +1,5 @@
+package enums;
+
+public enum StateEnum {
+	FULL_MATCH, FULL_MATCH_WITH_TYPO, PARTIAL_MATCH, PARTIAL_MATCH_WITH_TYPO, NO_MATCH
+}
